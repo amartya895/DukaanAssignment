@@ -23,19 +23,7 @@
     "orderAmount": 765.9,
     "transactionFee": 15
   },
-  {
-    "orderId": "#281213",
-    "orderDate": "11 July, 2023",
-    "orderAmount": 1456.3,
-    "transactionFee": 30
-  },
-
-  {
-    "orderId": "#281245",
-    "orderDate": "12 August, 2023",
-    "orderAmount": 890.9,
-    "transactionFee": 18
-  },
+ 
   {
     "orderId": "#281246",
     "orderDate": "13 August, 2023",
